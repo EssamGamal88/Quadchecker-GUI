@@ -14,11 +14,11 @@ It allows users to run quads interactively, visualize the generated shapes, and 
 
 ## Features
 
-🎨 Built using the Fyne GUI Framework
-🎵 Background music playback via beep
-⚙️ Detects multiple matching quads alphabetically (QuadC || QuadE)
-💫 Animated ASCII logo splash
-🧩 Modular code structure
+- 🎨 Built using the Fyne GUI Framework
+- 🎵 Background music playback via beep
+- ⚙️ Detects multiple matching quads alphabetically (QuadC || QuadE)
+- 💫 Animated ASCII logo splash
+- 🧩 Modular code structure
 
 ---
 
@@ -29,7 +29,7 @@ Quadchecker-GUI/
 ├── main.go
 ├── go.mod
 ├── go.sum
-├── /assats
+├── /assets
 │   └── pixify-230092.mp3
 └── /Internal
     ├── quadA
@@ -44,6 +44,7 @@ Quadchecker-GUI/
 ```bash
 git clone https://github.com/EssamGamal88/Quadchecker-GUI.git
 cd Quadchecker-GUI
+chmod +x Internal/quadA Internal/quadB Internal/quadC Internal/quadD Internal/quadE
 go run .
 ```
 
