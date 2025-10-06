@@ -4,6 +4,13 @@ A modern Go + Fyne GUI application that visually detects and validates ASCII-bas
 Built as part of my 01Talent x Nextera Go Piscine journey.
 
 ---
+## 🎬 Demo
+
+Here’s how the Quadchecker GUI works in action 👇  
+
+![Quadchecker GUI Demo](assets/Quadchecker-GUI.gif)
+
+---
 
 ## 🧠 Overview
 
