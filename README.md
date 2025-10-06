@@ -1,3 +1,7 @@
+![Go](https://img.shields.io/badge/Go-1.21-blue)
+![GUI](https://img.shields.io/badge/Fyne-GUI-green)
+![Status](https://img.shields.io/badge/Project%20Status-Complete-brightgreen)
+
 # 🧩 Quadchecker-GUI
 
 A modern Go + Fyne GUI application that visually detects and validates ASCII-based quad patterns (QuadA → QuadE).
